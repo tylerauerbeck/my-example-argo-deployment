@@ -1,0 +1,6 @@
+MEMORY_LIMIT=512Mi
+DATABASE_SERVICE_NAME=my-argo-test-db
+POSTGRESQL_USER=my-db-user
+POSTGRESQL_PASSWORD=supersecretpassword
+POSTGRESQL_DATABASE=my-test-db
+
